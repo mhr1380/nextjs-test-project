@@ -10,7 +10,8 @@ To run the project
 
 ## to edit slider ,edit pages/edit-slider/[slider_id].js
 
-sliders list pages/sliders-list.js
+## sliders list page is available in pages/sliders-list.js
 
-you should use MenuLayout component for layout in Layout/MenuLayout.js
-see the example pages/sliders-list.js
+## you should use MenuLayout component for layout in Layout/MenuLayout.js
+
+## see the example pages/sliders-list.js
