@@ -6,8 +6,8 @@ To run the project
 
 ---
 
-edit pages/add-slider.js for adding slider page
-edit pages/edit-slider/[slider_id].js for editing slider
+to add slider page , edit pages/add-slider.js
+to edit slider ,edit pages/edit-slider/[slider_id].js
 
 sliders list pages/sliders-list.js
 
