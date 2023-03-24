@@ -15,9 +15,9 @@ const SlidersList = () => {
   // Pagination
   const [currentPage, setCurrentPage] = useState(1);
   const [slidersCount, setSlidersCount] = useState(0);
-  //
 
   const [refresher, setRefresher] = useState(0);
+
   const getSlidersList = async () => {
     const { data } = await getSliders(currentPage, perPages);
     setSlidersCount(data.count);
